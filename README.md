@@ -1,4 +1,9 @@
 # cryptochecker
+
+
+**Please note that the GitHub repository you are referring to is no longer actively maintained. As a result, its functionality and compatibility with current systems cannot be guaranteed. It is advisable to explore alternative solutions or seek assistance from other sources to address your needs effectively.**
+
+
 A python pip library for checking Bitcoin and Ethereum transactions
 
 Install with:
